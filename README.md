@@ -1,6 +1,6 @@
 dumping grounds for my python code.
 
-I was a developer/script kiddie for years. (1995 - 2015). 
+I was a developer/script kiddie for years. (1995 - 2015).\n
 After working for a dotcom for a near lifetime, my group was laidoff, I got bitter and quit the biz. lol
 
 I then decided to take a different career path outside of IT, Web devel and backend system applications. 
